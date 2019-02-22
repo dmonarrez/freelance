@@ -12,6 +12,16 @@ This is a mock project replicating the full design process for creating a site a
 
 The site is to showcase a new co-working space in the city and entice new people to join and choose this space as their working environment.
 
+## Target Users
+
+* Programmers
+* Writers
+* Photographers
+* Online tutors/educators
+* Data Entry Workers
+* Marketing and PR Consultants
+* Other freelance/remote professionals
+
 ## Authors
 
 * **David Monarrez**
