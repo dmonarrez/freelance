@@ -74,7 +74,14 @@ The site is to showcase a new co-working space in the city and entice new people
 
 ## Research, Inspiration and Brainstorming
 
-From my research coupled with the clients requests, I think that a clean gray-scale site with light pops of green (because there are a lot of plants in the pictures provided and would also fall into the nw theme as a local space) will give the luxurious and modern feel they are looking for in the site. From my research, it is clear that a one page design might be the way to go. All of the relevant information that someone who is interested in a space like this should be on the first page they hit and then potentially more detailed pages for individual pieces of information like room bookings. I want to avoid a required sign up to view the facilities because a few sites I checked had that and instantly turned me off from the space because it is too much work when browsing and comparing to other spaces and I imagine others feel the same way.
+From my research coupled with the clients requests, I think that a clean gray-scale site with light pops of green (because there are a lot of plants in the pictures provided and would also fall into the nw theme as a local space) will give the luxurious and modern feel they are looking for in the site. From my research, it is clear that a one page design might be the way to go. All of the relevant information that someone who is interested in a space like this should be on the first page they hit and then potentially more detailed pages for individual pieces of information like room bookings.
+
+## Sketches
+
+![](img/IMG_0023.jpg)
+![](img/IMG_0024.jpg)
+![](img/IMG_0025.jpg)
+![](img/IMG_0026.jpg)
 
 ## Authors
 
