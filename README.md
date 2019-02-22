@@ -47,6 +47,7 @@ The site is to showcase a new co-working space in the city and entice new people
 * As a graphic designer, I want to be able to be in a space where I can focus on my project with minimal distractions from the people around me
 * As a remote professional, I want to be able to do most (if not all) of my set up for the space online
 * As a member of the space, I want to be able to contact people associated with the space if I have any problems or questions.
+* As someone in the market for a co-working space, I want to be able to see layouts and pricing without having to sign up or register to compare and contrast
 
 <hr>
 
