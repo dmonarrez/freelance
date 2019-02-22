@@ -71,6 +71,8 @@ The site is to showcase a new co-working space in the city and entice new people
 
 * As a Marketing Consultant, I want to be able to book rooms/space online to handle short notice meetings with ease.
 
+## Research, Inspiration and Brainstorming
+
 ## Authors
 
 * **David Monarrez**
