@@ -25,7 +25,27 @@ module.exports = {
             'css-loader',
             'sass-loader'
         ]
-      }
+      },
+
+      {
+        test: /\.(gif|png|jpe?g)$/,
+          use: [
+            {
+              loader: 'file-loader',
+              options: {
+                name: '[name].[ext]',
+                outputPath: 'assets/img/'
+              }
+            }
+          ]
+        },
+
+        {
+        test:/\.html$/,
+        use: [
+          'html-loader'
+          ]
+        }
 
     ]
 
