@@ -23,7 +23,7 @@ The site is to showcase a new co-working space in the city and entice new people
 * Other freelance/remote professionals
 
 
-making a change so that i can make a commit
+making a change
 
 ## User Stories
 
