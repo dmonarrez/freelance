@@ -22,6 +22,9 @@ The site is to showcase a new co-working space in the city and entice new people
 * Marketing and PR Consultants
 * Other freelance/remote professionals
 
+
+making a change so that i can make a commit
+
 ## User Stories
 
 #### Angela (Graphic Designer)
