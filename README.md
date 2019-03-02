@@ -81,32 +81,32 @@ From my research coupled with the clients requests, I think that a clean gray-sc
 
 ## Sketches
 
-![](img/IMG_0023.jpg)
-![](img/IMG_0024.jpg)
-![](img/IMG_0025.jpg)
-![](img/IMG_0026.jpg)
+![](./src/assets/img/IMG_0023.jpg)
+![](./src/assets/img/IMG_0024.jpg)
+![](./src/assets/img/IMG_0025.jpg)
+![](./src/assets/img/IMG_0026.jpg)
 
 ## Wireframes
 Wireframe Overwiew
 
-![](img/all-wireframes.png)
+![](./src/assets/img/all-wireframes.png)
 
 Mobile Wireframe
 
-![](img/mobile-wireframe.png)
+![](./src/assets/img/mobile-wireframe.png)
 
 Tablet Wireframe
 
-![](img/tablet-wireframe.png)
+![](./src/assets/img/tablet-wireframe.png)
 
 Desktop Wireframe
 
-![](img/desktop-wireframe.png)
+![](./src/assets/img/desktop-wireframe.png)
 
 
 ## Prototype
 
-![](img/mobile-prototype.png)
+![](./src/assets/img/mobile-prototype.png)
 
 ## Authors
 
@@ -114,17 +114,14 @@ Desktop Wireframe
 
 ## Specs
 
-Specification | Input | Output
+<!-- Specification | Input | Output
 ------------- | ----- | ------
-The site will resize based on the size of the viewport | viewport is less than 100px wide | pictures change from 4 in a row to 2 in a row
+The site will resize based on the size of the viewport | viewport is less than 100px wide | pictures change from 4 in a row to 2 in a row -->
 
 
 ## Known Bugs
 
-* White space above hero image does not resize
-* Most text does not resize
-* Hover and most other animations are not active
-* No working links
+site is not yet complete. will be updated
 
 ## License
 
