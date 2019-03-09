@@ -6,7 +6,9 @@ This is a mock project replicating the full design process for creating a site a
 
 * visit https://github.com/dmonarrez/freelance.git
 * Clone the repo to your computer.
-* Launch the local file
+* Navigate to the project directory in your terminal
+* In terminal run $ npm install(this should install all dependencies and packages needed to run this project)
+* To run the project locally, run $ npm start and your localhost:8080/index.html file should open automatically in your default browser.
 
 ## Description
 
@@ -21,9 +23,6 @@ The site is to showcase a new co-working space in the city and entice new people
 * Data Entry Workers
 * Marketing and PR Consultants
 * Other freelance/remote professionals
-
-
-making a change
 
 ## User Stories
 

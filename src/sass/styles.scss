@@ -10,30 +10,50 @@ body {
 // nav styles
 nav {
   width: 100%;
-  height: 120px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  height: 60px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   background-color: gray;
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
 
   .nav-left {
     margin-left: 35px;
     p {
-      font-size: 40px;
+      font-weight: bold;
     }
 
   }
 
   .nav-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: 3 / 4;
     img{
-      width: 100px;
-      margin-right: 110px;
+      width: 50px;
+
     }
   }
 
   .nav-right {
-    margin-right: 35px;
+    display: flex;
+    flex-direction: row;
+    grid-column: 5 / 6;
+
+    p {
+      margin-right: 10px;
+    }
+
+    .right-middle {
+      border-right: 1px solid black;
+      border-left: 1px solid black;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
 
   }
 }
@@ -42,10 +62,99 @@ nav {
 
 
 
-
-.container {
-  height: 94vh;
+//start hero styles
+.hero {
+  height: 60vh;
   background-image: url("../assets/img/spaceDesktopOG.jpg");
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+
+  .hero-shadow {
+    display: flex;
+    height: inherit;
+    background-color: rgba(255, 255, 255, .2);
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+      color: white;
+    }
+  }
+}
+//end hero styles
+
+//start intro-panel styles
+.intro-panel {
+  height: 40vh;
+  width: 100%;
+  background-image: url("../assets/img/given4.png");
+  background-position: 0% 80%;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  .intro-panel-shadow {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .3);
+
+    .text-container {
+      display: flex;
+      flex-direction: column;
+      width: 50%;
+      height: 100%;
+      justify-content: center;
+      text-align: center;
+    }
+
+    h2 {
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+
+    p {
+      color: white;
+    }
+  }
+}
+
+//media querys
+
+
+//tablet
+@media screen and (min-width: 1200px) {
+  .nav-right {
+
+    i {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 1199px) {
+    .text-container {
+      h2 {
+        font-size: 14pt;
+      }
+
+      p {
+        font-size: 10pt;
+      }
+    }
+
+    .nav-right {
+      justify-content: center;
+      align-items: center;
+
+      a {
+        display: none;
+      }
+    }
+
+    .nav-right-mobile {
+      display: block;
+    }
 }
